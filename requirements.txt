@@ -1,6 +1,16 @@
+# Core
 requests==2.31.0
 python-dotenv==1.0.0
 click==8.1.7
 rich==13.7.0
 pyyaml==6.0.1
 pytest==7.4.4
+
+# OCI SDK (optional — for drift detection)
+# oci==2.119.0
+
+# Azure SDK (optional — for drift detection)
+# azure-identity==1.15.0
+# azure-mgmt-compute==30.3.0
+# azure-mgmt-network==25.1.0
+# azure-mgmt-resource==23.0.0
