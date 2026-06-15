@@ -1,6 +1,6 @@
 # security-iac-toolkit
 
-> A collection of security and governance tools for OCI & Azure Infrastructure-as-Code — secret scanning, drift detection, cost estimation, OPA policy enforcement, and tagging compliance.
+> A collection of security and governance tools for OCI & Azure Infrastructure-as-Code  secret scanning, drift detection, cost estimation, OPA policy enforcement, and tagging compliance.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OCI](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white)
